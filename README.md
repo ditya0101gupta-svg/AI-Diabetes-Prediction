@@ -182,6 +182,22 @@ proportion of actual Class 1 cases but also produces
 many false-positive classifications.
 
 These results are specific to the evaluation dataset
+
+
+## Application Screenshots
+
+### 1. Application Interface
+![Application Interface](app_interface.png)
+
+### 2. Health Indicators
+![Health Indicators](health_indicators.png)
+
+### 3. Prediction Form
+![Prediction Form](prediction_form.png)
+
+### 4. Prediction Results Dashboard
+![Prediction Results](prediction_results.png)
+
 and do not establish clinical reliability.
 
 **Disclaimer:** This model is an educational demonstration
