@@ -118,3 +118,33 @@ Ditya Gupta
 
 Interested in Data Analytics, Python,
 Machine Learning, and Data Visualization.
+
+
+## Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core programming language |
+| Pandas | Data cleaning and manipulation |
+| NumPy | Numerical operations |
+| Matplotlib | Data visualization |
+| Seaborn | Exploratory data analysis |
+| Scikit-learn | Machine learning and model evaluation |
+| Random Forest | Diabetes classification model |
+| Joblib | Model serialization |
+| Streamlit | Interactive web application |
+| Git & GitHub | Version control and project hosting |
+| Git LFS | Storage of large trained model files |
+
+## Key Features
+
+- Exploratory data analysis of BRFSS 2015 health survey data
+- Data preprocessing and missing-value handling
+- Random Forest classification model
+- Interactive form with 21 health indicators
+- Model prediction and estimated class probability
+- Visual prediction results dashboard
+- Publicly deployed Streamlit web application
+
+**Important:** This project is an educational machine learning demonstration, not a clinically validated diabetes screening or diagnostic tool.
+
