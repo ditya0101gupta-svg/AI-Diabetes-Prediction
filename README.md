@@ -148,3 +148,42 @@ Machine Learning, and Data Visualization.
 
 **Important:** This project is an educational machine learning demonstration, not a clinically validated diabetes screening or diagnostic tool.
 
+## Model Performance
+
+The Random Forest classifier was evaluated on a test set of
+50,736 samples from the BRFSS 2015 dataset.
+
+### Evaluation Metrics
+
+| Metric | Score |
+|--------|-------|
+| Accuracy | 75.54% |
+| Precision (Class 1) | 32.77% |
+| Recall (Class 1) | 71.85% |
+| F1-Score (Class 1) | 45.01% |
+
+### Classification Report
+
+| Class | Precision | Recall | F1-Score | Support |
+|-------|-----------|--------|----------|---------|
+| Non-Diabetes (0) | 0.94 | 0.76 | 0.84 | 43,667 |
+| Diabetes (1) | 0.33 | 0.72 | 0.45 | 7,069 |
+
+### Model Interpretation
+
+The Random Forest model achieved an overall accuracy
+of 75.54% on the test dataset.
+
+For Class 1, recall was approximately 71.85%, while
+precision was approximately 32.77%.
+
+This indicates that the model identifies a substantial
+proportion of actual Class 1 cases but also produces
+many false-positive classifications.
+
+These results are specific to the evaluation dataset
+and do not establish clinical reliability.
+
+**Disclaimer:** This model is an educational demonstration
+and must not be used for medical diagnosis or screening.
+
