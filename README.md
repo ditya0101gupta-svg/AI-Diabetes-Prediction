@@ -1,5 +1,13 @@
 # AI-Based Diabetes Prediction System
 
+## Live Application
+
+[Click Here to Open the AI Diabetes Prediction App](https://ai-diabetes-prediction-yibeaph3zraighmxj4pxar.streamlit.app)
+
+This application demonstrates diabetes classification using a Random Forest machine learning model.
+
+**Disclaimer:** Educational use only. Not a medical diagnostic tool.
+
 ## Project Overview
 
 An end-to-end machine learning project that explores
